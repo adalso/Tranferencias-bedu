@@ -1,0 +1,38 @@
+
+body {
+
+    background-color: #abded9;
+
+    
+    <form action="/action_page.php" style="
+        display:  flex;
+        flex-direction:  column;
+        padding:  0 50px;
+        height:  100vh;
+        justify-content:  center;
+        margin-bottom: 10px;
+    ">
+          Nombre :
+          <input type="text" name="fname" style="
+    width: 500px;
+    height: 15px;
+">
+          <br>
+          Primer Apellido:   <input type="text" name="fname" style="
+      width: 500px;
+      height: 15px;
+          <br>
+          Segundo Apellido:   <input type="text" name="fname" style="
+      width: 500px;
+      height: 15px;
+          <br>
+          <input type="number" name="CLABE" style="
+    margin-bottom: 21px;
+    width: 500px;
+    height: 15px;
+">
+        margin-bottom: 21px;
+    ">
+          <input type="submit" value="Submit">
+        </form>
+}
